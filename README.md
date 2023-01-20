@@ -4,7 +4,7 @@ This is an IOT project about a thermostat connected to wifi. Is based on the ESP
 
 ## Architecture diagram
 
-![Diagram preview](./thermostat.png)
+![Diagram preview](./static/thermostat.png)
 
 The diagram above shows all the components of the system and the connections between them.
 

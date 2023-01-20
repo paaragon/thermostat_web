@@ -6,3 +6,5 @@ The main station has a thermometer and a relay connected to the heater. It opens
     2. Turn on the screen (it turns off based on a timeout).
     3. Decrease the setted temperature
     4. Increase the setted temperature
+
+![Station schema](./static/schema_main.png)
